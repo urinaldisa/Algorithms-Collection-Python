@@ -4,6 +4,6 @@ setup(
     name="algoritma vigenere",
     packages=["Algorithm_test"],
     version="0.0.7",
-    description="Testing Vigenere cipher in python",
+    description="Testing Vigenere cipher with python languague",
     url="https://github.com/AladdinPerzon/Algorithms-Collection-Python",
 )
